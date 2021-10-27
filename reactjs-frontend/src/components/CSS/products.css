@@ -1,0 +1,37 @@
+.d-block{
+    height: 90vh;
+    width: 100%;
+}
+
+.brandname{
+    z-index: 2;
+    position: absolute;
+    left: 6rem;
+    
+    /* top:40vh; */
+    /* color: white;
+    margin: auto;
+    height: 50vh;
+    width: 40vw;
+    top:40vh;
+    right:50vh;
+    color: rgb(114, 63, 78); */
+    }
+
+.searchbar{
+    box-shadow: 1px 1px 1px rgb(201, 149, 6);
+}
+
+.options{
+    background-color: rgb(123, 190, 211);
+}
+.prod-cards{
+    justify-content: space-evenly;
+}
+
+.card.details{
+    background-color: rgb(226, 210, 188);
+}
+.card.details:hover{
+    box-shadow: 1px 1px 3px rgb(236, 238, 119)
+}

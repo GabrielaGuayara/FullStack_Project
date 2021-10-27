@@ -1,0 +1,30 @@
+.btn{
+margin-right: 1rem;
+
+}
+table{
+    background-color: #ffffff;
+}
+
+.main-list{
+    height: 100vh;
+    background: #9796f0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fbc7d4af, #9796f094);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fbc7d483, #9796f09d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.main-comp{
+    height: 100vh;
+    background: #9796f0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fbc7d4af, #9796f094);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fbc7d483, #9796f09d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding-top: 3rem;
+}
+
+.main-comp2{
+    height: 100vh;
+    background: #9796f0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fbc7d4af, #9796f094);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fbc7d483, #9796f09d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding-top: 1rem;
+}
